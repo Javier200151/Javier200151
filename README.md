@@ -28,6 +28,10 @@
         <span>Java</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
       </td>
+      <td width="25%" align="center">
+        <span>SQL</span><br><br><br>
+        <img height="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png">
+      </td>
     </tr>
       <td width="25%" align="center">
         <span><b>MySql</b></span><br><br><br>
@@ -40,10 +44,6 @@
       <td width="25%" align="center">
         <span>VisualStudioCode</span><br><br><br>
         <img height="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">
-      </td>	
-      <td width="25%" align="center">
-        <span>SQL</span><br><br><br>
-        <img height="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/sql.png">
       </td>
     </tr>
 
