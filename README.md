@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<p align="center">
+  <img alt="Isha's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Isha2103&show_icons=true&theme=radical">
+</p>
+
 <!--
 **Javier200151/Javier200151** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
