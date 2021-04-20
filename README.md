@@ -1,7 +1,7 @@
 ### Hi there 👋
 Systems engineer student, 9th semester focused on software development in Escuela Colombiana de Ingeniería Julio Garavito
 
-📫 How to reach me:[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/javier-esteban-lopez-pe/) 
+📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/javier-esteban-lopez-pe/) 
 , [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shuklaraghav321.com)](mailto:javier200151@gmail.com)
 
 ![Javier's github stats](https://github-readme-stats.vercel.app/api?username=Javier200151&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])  
