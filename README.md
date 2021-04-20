@@ -20,7 +20,7 @@
       </td>
       <td width="25%" align="center">
         <span>SQL</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/oracle.svg">
+        <img height="32px" src="https://cdn.svgporn.com/logos/oracle.svg">
       </td>     
     </tr>
       <td width="25%" align="center">
