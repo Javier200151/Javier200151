@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+📫 How to reach me:[![Linkedin Badge](http://t0.gstatic.com/images?q=tbn:ANd9GcRMCA3j2A8hfLl9p5UAU5nd9lvqLlNZvqoU4xOsZ192uH4IYS6X)](https://www.linkedin.com/in/javier-esteban-lopez-pe/) 
+, [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shuklaraghav321.com)](mailto:dubey.abhinav76@gmail.com)
+
 ![Javier's github stats](https://github-readme-stats.vercel.app/api?username=Javier200151&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Javier200151&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -43,7 +46,6 @@
         <img height="64px" src="https://img.icons8.com/color/144/000000/php.png">
       </td>
     </tr>
-
   </tbody>
 </table>
 </p>
