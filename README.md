@@ -19,8 +19,8 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
       </td>
       <td width="25%" align="center">
-        <span>SQL</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/oracle.svg">
+        <span>React</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
       </td>     
     </tr>
       <td width="25%" align="center">
