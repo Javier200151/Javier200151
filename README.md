@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Javier's github stats](https://github-readme-stats.vercel.app/api?username=Javier200151&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
+![Javier's github stats](https://github-readme-stats.vercel.app/api?username=Javier200151&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Javier200151&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Javier200151/Javier200151** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
