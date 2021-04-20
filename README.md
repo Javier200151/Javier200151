@@ -34,8 +34,8 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/mysql.svg">
       </td>
       <td width="25%" align="center">
-        <span>C</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/c.svg">
+        <span>C#</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/c#.svg">
       </td>
       <td width="25%" align="center">
         <span>VisualStudioCode</span><br><br><br>
