@@ -12,6 +12,10 @@
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/c#.png"/>
 </p>
 
+
+#### Profile views counter
+![Visitor Count](https://profile-counter.glitch.me/{imakash3011}/count.svg)
+
 <!--
 **Javier200151/Javier200151** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
