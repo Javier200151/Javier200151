@@ -35,7 +35,7 @@
       </td>
       <td width="25%" align="center">
         <span>C#</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/c#.svg">
+        <img height="64px" src="https://camo.githubusercontent.com/52045ed9d775b4ac9286e51c28b878edca6bb1750815b423c8d06c7976040ab7/68747470733a2f2f6d617274696e63686176657a2e6769746875622e696f2f4173736574732f4c6f676f732f6373686172702e737667">
       </td>
       <td width="25%" align="center">
         <span>VisualStudioCode</span><br><br><br>
