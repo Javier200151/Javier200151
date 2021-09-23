@@ -1,5 +1,5 @@
 ### Hi there 👋
-Systems engineer student, 9th semester focused on software development in Escuela Colombiana de Ingeniería Julio Garavito
+Systems engineer student, 10th semester focused on software development in Escuela Colombiana de Ingeniería Julio Garavito
 
 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/javier-esteban-lopez-pe/) 
 , [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shuklaraghav321.com)](mailto:javier200151@gmail.com)
@@ -27,7 +27,7 @@ Systems engineer student, 9th semester focused on software development in Escuel
       </td>
       <td width="25%" align="center">
         <span>React</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
+        <img height="64px" src="https://cdn.svgporn.com/logos/angular.svg">
       </td>     
     </tr>
       <td width="25%" align="center">
